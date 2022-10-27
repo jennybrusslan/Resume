@@ -10,9 +10,11 @@ Office 365 Engineer Nov 2019-present
 
 Digital Transformation Innovators Groupp
 -	Responsible for engineering the internal product and service catalog using Microsoft CRM
--	Primary stakeholder for all Cloud applications for internal company business as well as clients.  
+-	Primary stakeholder for all Cloud applications for internal company business as well as clients  
+-	Architected and implemented SharePoint environment from start to finish
 -	Instrumental in developing projects using CMMI, Agile, and Scrum
 - 	Developed workflows that utilize Nintex, Flow, Designer, and InfoPath
+- 	Maintained and enforced governance policy
 -	Developed taxology and taxonomy for our content management system (CMS)
 -	Planned and Executed Global file share migration
 -	Proficiency in data intake using a combination of Power BI, Power Apps, and Power Automate
