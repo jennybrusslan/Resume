@@ -1,6 +1,6 @@
 
-# Jenny Brusslan			 
-jenny.brusslan@gmail.com 
+# Jenny Brusslan
+[jenny.brusslan@gmail.com](mailto:jenny.brusslan@gmail.com)
 						      
 I am an altruistic professional with a track record of planning technical projects and solving cloud technical problems.  Demonstrated ability to work effectively with large disparate groups including technical, business, and executive.  Experience managing a full project lifecycle from requirements gathering to final implementation and customer training.
 
