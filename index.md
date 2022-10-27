@@ -4,10 +4,11 @@ jenny.brusslan@gmail.com
 						      
 I am an altruistic professional with a track record of planning technical projects and solving cloud technical problems.  Demonstrated ability to work effectively with large disparate groups including technical, business, and executive.  Experience managing a full project lifecycle from requirements gathering to final implementation and customer training.
 
-** Professional Experience**
+**Professional Experience**
 
-*Office 365 Engineer*  Nov 2019-present
-  Digital Transformation Innovators Group
+**Office 365 Engineer** Nov 2019-present
+
+Digital Transformation Innovators Groupp
 -	Responsible for engineering the internal product and service catalog using Microsoft CRM
 -	Primary stakeholder for all Cloud applications for internal company business as well as clients.  
 -	Instrumental in developing projects using CMMI, Agile, and Scrum
