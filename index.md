@@ -45,7 +45,7 @@ Certified in A+ by CompTIA.org
 - Big Sister in Big Brothers Big Sisters
 - Alumni Board Member, President Elect, Executive Committee, and Braves Open Co-Chair-Brebeuf Jesuit
 - Board Member-Youth Enhancement Training Initiative 
--Founding Member-Women of Impact
+- Founding Member-Women of Impact
 
 **Technical Proficiencies**
 
