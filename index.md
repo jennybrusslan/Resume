@@ -1,14 +1,3 @@
-# jennybrusslan
-
-## jenny brusslan
----
-
-- Bullet 1
-- Bullet 2
-
-*Jenny Brusslan*
-**Jenny Brusslan**
-***Jenny Brusslan***
 
 # Jenny Brusslan			 
 jenny.brusslan@gmail.com 
@@ -18,8 +7,8 @@ I am an altruistic professional with a track record of planning technical projec
 ## Professional Experience
 
 *Office 365 Engineer*
-Nov 2019-present
-Digital Transformation Innovators Group
+  Nov 2019-present
+  Digital Transformation Innovators Group
 -	Responsible for engineering the internal product and service catalog using Microsoft CRM
 -	Primary stakeholder for all Cloud applications for internal company business as well as clients.  
 -	Instrumental in developing projects using CMMI, Agile, and Scrum
