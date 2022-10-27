@@ -6,7 +6,7 @@ I am an altruistic professional with a track record of planning technical projec
 
 **Professional Experience**
 
-**Office 365 Engineer** Nov 2019-present
+Office 365 Engineer Nov 2019-present
 
 Digital Transformation Innovators Groupp
 -	Responsible for engineering the internal product and service catalog using Microsoft CRM
