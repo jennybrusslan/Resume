@@ -39,7 +39,7 @@ Certified in Project Management from Indiana University Purdue University, India
 
 Certified in A+ by CompTIA.org 		
 
-Community Service
+**Community Service**
 
 - Big Sister in Big Brothers Big Sisters
 - Alumni Board Member, President Elect, Executive Committee, and Braves Open Co-Chair-Brebeuf Jesuit
@@ -52,8 +52,6 @@ Community Service
 | --- | --- | --- | --- | --- | --- |
 | **Exchange** | **Azure Dev Ops** | **Teams** | **Agile/CMMI** | **Dynamics**  **CRM** | **Disaster Recovery** |
 | **Project Management** | **Technical Documentation** | **Technical Training** | **End User Training** | **Data Warehouse** | **PowerShell** |
-| **Workflows** | **Power Apps** | **Visual Studio** | **MDM** | **Altiris** |
+| **Workflows** | **Power Apps** | **Visual Studio** | **MDM** | **Altiris** |**My Hub**
 
-**MyHub**
- |
 
